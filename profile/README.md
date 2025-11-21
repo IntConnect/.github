@@ -2,7 +2,7 @@
   <h1>IntConnect</h1>
 </div>
 <div align="center">
-  <img src="logo.png" width="50%" />
+  <img src="logo.png" width="35%" />
   <h2>"Connecting Machines, Empowering Industry"</h2>
 </div>
 
